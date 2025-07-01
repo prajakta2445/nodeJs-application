@@ -1,0 +1,1 @@
+url -> check domain(user readable) -> server IP address -> browser sends a request to that server with given IP address belonging to that domain
